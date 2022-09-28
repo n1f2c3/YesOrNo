@@ -1,3 +1,4 @@
 1、windows是否可以在隐藏窗口的情况下,获取句柄,将键盘和鼠标消息提送给相关进程.求案例
 -------------------------------------------------
 for /f %i in (test.txt)  do nuclei.exe -H  "x-bug-bounty: xxxx%i"    -t  "C:\Users\asndashd6t2\nuclei-templates\vulnerabilities\vmware\*"   -target %i
+Kproble  jproble  callback
