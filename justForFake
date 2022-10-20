@@ -4,4 +4,3 @@ for /f %i in (test.txt)  do nuclei.exe -H  "x-bug-bounty: xxxx%i"    -t  "C:\Use
 Kproble  jproble  callback
 
 
-https://mp.weixin.qq.com/s/SEGULwMm7RF-ptzAr0Ge1A
